@@ -10,7 +10,3 @@
        <meta http-equiv="refresh" content="0; url=https://cdjief.webnode.page" />
     </code>
 </pre>
-
-<pre>
-<iframe frameborder="1" width="700" height="500" scrolling="no" src="https://test.com"></iframe>
-</pre>
