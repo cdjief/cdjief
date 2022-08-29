@@ -11,6 +11,6 @@
     </code>
 </pre>
 
-<div class="wrap">
+<pre>
 <iframe frameborder="1" width="700" height="500" scrolling="no" src="https://test.com"></iframe>
-</div>
+</pre>
