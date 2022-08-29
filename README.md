@@ -11,6 +11,6 @@
     </code>
 </pre>
 
-    <html>
+    <iframe>
        <meta http-equiv="refresh" content="0; url=https://cdjief.webnode.page" />
-    </html>
+    </iframe>
