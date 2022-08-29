@@ -13,7 +13,7 @@
 
 <body>
  <h1>  ██▓▒­░⡷⠂CDJIEF⠐⢾░▒­▓██ 
- 
+ '
    comunidade de jogos , internet e fandoms
  </h1>
  </body>
