@@ -4,6 +4,13 @@
     <body> <h1>↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑</h1></body>
 ████████████████████████████████████████████████████████████████████████
 
+<pre>
+    <code>
+       <meta http-equiv="refresh" content="0; url=https://cdjief.webnode.page" />
+    </code>
+</pre>
+
+
 <body>
  <h1>  ██▓▒­░⡷⠂CDJIEF⠐⢾░▒­▓██ 
  
@@ -11,8 +18,4 @@
  </h1>
  </body>
 
-<pre>
-    <code>
-       <meta http-equiv="refresh" content="0; url=https://cdjief.webnode.page" />
-    </code>
-</pre>
+
